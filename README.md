@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on many defrent project 
 - 📫 How to reach me bardadabderrahim@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: 
 
 <!---
